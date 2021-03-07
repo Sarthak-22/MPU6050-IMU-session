@@ -9,5 +9,9 @@
 ### IMU webserver Pre-session instructions
 * Search and install `Adafruit_MPU6050` library from `Sketch->Include Library->Manage Libraries` section in Arduino IDE. Install all the dependent libraries if there is any prompt for the same.
 * Follow exactly the same procedure as above and install `Arduino_JSON` library in Arduino IDE.
-* Download the zip file for the external libraries(not in-built in Arduino IDE) [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip) and [AsyncTCP](https://github.com/me-no-dev/AsyncTCP/archive/master.zip). Inorder to install these libraries in Arduino IDE, go to `Sketch->Include Library->Add .zip Library` and select the tw libraries you have just downloaded.
+* Download the zip file for the external libraries(not in-built in Arduino IDE) [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip) and [AsyncTCP](https://github.com/me-no-dev/AsyncTCP/archive/master.zip). Inorder to install these libraries in Arduino IDE, go to `Sketch->Include Library->Add .zip Library` and select the tw0 libraries you have just downloaded.
 * Follow this [tutorial](https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/) to understand and install **SPIFFS Plugin** in Arduino IDE for ESP32.
+
+### Basic Connection instructions
+* In the custom board, you should see pin `SDA` and pin `21` adjacent to each other and pin `SCL` and pin `22` adjacent to each other.
+* Connect these two pair of pins i.e `SDA with 21` and `SCL with 22` in your custom board using **Jumper caps** or **Jumper Wires**, whichever is available.
