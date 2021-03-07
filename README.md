@@ -1,6 +1,9 @@
 # MPU6050 (IMU) session
 ## Electronics Club
 
+### **Note**: 
+The below procedure is meant for you to try out before the session and ensure everything is installed properly. However, **please note that** these instructions would not be repeated in the session from scratch and would be skipped. It would hardly take 15-20 mins to execute the below instructions, hence please try it out.
+
 ### Pre-session Instructions
 * Download this Github repo as a zip folder (At the top right, click on the tab which says `Code`. Click on `Download ZIP`).
 * The zip file should now be visibe in your system file storage. Extract all the files from that zip file, **except for `README.md`**, and store the remaining 3 files (index.html, style.css, script.js) inside a new folder named `data`.
