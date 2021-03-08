@@ -29,6 +29,6 @@ The below procedure is meant for you to try out before the session and ensure ev
 
 ### References
 * https://www.pieter-jan.com/node/11
-* https://en.wikipedia.org/wiki/Kalman_filter#:~:text=In%20statistics%20and%20control%20theory,than%20those%20based%20on%20a
+* https://en.wikipedia.org/wiki/Kalman_filter
 
 
