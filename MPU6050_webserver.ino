@@ -45,7 +45,7 @@ float gyroZoffset = 0.01;
 
 // Init MPU6050
 void beginMPU(){
-  if (!mpu.begin(0x68)) {
+  if (!mpu.begin(0x69)) {
     Serial.println("Sensor Error! Wrong I2C Address");
     while (1) {
       delay(10);
