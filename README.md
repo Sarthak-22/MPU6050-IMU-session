@@ -1,6 +1,8 @@
 # MPU6050 (IMU) session
 ## Electronics Club
 
+### The presentation for the session can be found [here](https://docs.google.com/presentation/d/1OxjfJOWsnVvho-z-g3KpiE1wd0RCyOg-d9AANwInq7M/edit?usp=sharing)
+
 ### **Note**: 
 The below procedure is meant for you to try out before the session and ensure everything is installed properly. However, **please note that** these instructions would not be repeated in the session from scratch and would be skipped. It would hardly take 15-20 mins to execute the below instructions, hence please try it out.
 
@@ -19,3 +21,10 @@ The below procedure is meant for you to try out before the session and ensure ev
 * In the custom board, you should see pin `SDA` and pin `21` adjacent to each other and pin `SCL` and pin `22` adjacent to each other.
 * Connect these two pair of pins i.e `SDA with 21` and `SCL with 22` in your custom board using **Jumper caps** or **Jumper Wires**, whichever is available.
 ![diagram](https://github.com/Sarthak-22/MPU6050-IMU-session/blob/main/connection.jpeg)
+
+### Session Proceedings
+* The first code used in the session, can be found [here]()
+* The second code used in the session, can be found [here]()
+* The final code for the session[]()
+
+
