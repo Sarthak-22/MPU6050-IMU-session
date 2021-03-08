@@ -2,6 +2,7 @@
 ## Electronics Club
 
 ### The presentation for the session can be found [here](https://docs.google.com/presentation/d/1OxjfJOWsnVvho-z-g3KpiE1wd0RCyOg-d9AANwInq7M/edit?usp=sharing)
+### The recording of the session can be found [here](https://drive.google.com/file/d/1VZ5NJOwbf5NeRAGwKsL-XeVbrchpwH1E/view?usp=sharing)
 
 ### **Note**: 
 The below procedure is meant for you to try out before the session and ensure everything is installed properly. However, **please note that** these instructions would not be repeated in the session from scratch and would be skipped. It would hardly take 15-20 mins to execute the below instructions, hence please try it out.
