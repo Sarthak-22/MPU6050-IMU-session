@@ -23,8 +23,12 @@ The below procedure is meant for you to try out before the session and ensure ev
 ![diagram](https://github.com/Sarthak-22/MPU6050-IMU-session/blob/main/connection.jpeg)
 
 ### Session Proceedings
-* The first code used in the session, can be found [here]()
-* The second code used in the session, can be found [here]()
-* The final code for the session[]()
+* The first code used in the session, can be found [here](https://github.com/Sarthak-22/MPU6050-IMU-session/blob/main/MPU6050_basics.ino)
+* The second code used in the session, can be found [here](https://github.com/Sarthak-22/MPU6050-IMU-session/blob/main/Adafruit_IMU.ino)
+* The final code for the session using Webserver can be found [here](https://github.com/Sarthak-22/MPU6050-IMU-session/blob/main/MPU6050_webserver.ino)
+
+### References
+* https://www.pieter-jan.com/node/11
+* https://en.wikipedia.org/wiki/Kalman_filter#:~:text=In%20statistics%20and%20control%20theory,than%20those%20based%20on%20a
 
 
